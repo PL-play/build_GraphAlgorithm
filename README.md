@@ -27,6 +27,8 @@ This project depends on custom data structures:
 - **ArrayList** (dynamic array implementation)
 - **LinkedList** (doubly linked list)
 
+See: `https://github.com/PL-play/build-collection` to build and install dependencies.
+
 ## Getting Started
 
 ### Creating a Graph
