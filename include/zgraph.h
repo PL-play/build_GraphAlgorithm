@@ -2,8 +2,8 @@
 // Created by ran on 2024/1/25.
 //
 
-#ifndef INTERPRETER_COLLECTION_GRAPH_GRAPH_H_
-#define INTERPRETER_COLLECTION_GRAPH_GRAPH_H_
+#ifndef ZGRAPH_GRAPH_H_
+#define ZGRAPH_GRAPH_H_
 
 #include "hashtable/hash_table.h"
 #include "hashtable/hash_set.h"
@@ -393,4 +393,4 @@ int hungarian_matching(Graph* graph);
 #ifdef __cplusplus
 }
 #endif
-#endif //INTERPRETER_COLLECTION_GRAPH_GRAPH_H_
+#endif //ZGRAPH_GRAPH_H_
