@@ -21,7 +21,7 @@ target_include_directories(ZGRAPH PUBLIC
 
 # 安装库和头文件
 install(TARGETS ZGRAPH
-        EXPORT ZGRAPHTargets                   # 导出 ZJSON 库目标
+        EXPORT ZGRAPHTargets                   # 导出 ZGRAPH 库目标
         LIBRARY DESTINATION lib
         PUBLIC_HEADER DESTINATION include
 )
